@@ -1,0 +1,27 @@
+{
+  "name": "mfilesapi",
+  "version": "0.1.0",
+  "description": "Node.js bindings for M-Files API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rantanen/node-mfilesapi.git"
+  },
+  "keywords": [
+    "M-Files",
+    "MFilesAPI"
+  ],
+  "author": "Mikko Rantanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rantanen/node-mfilesapi/issues"
+  },
+  "homepage": "https://github.com/Rantanen/node-mfilesapi#readme",
+  "dependencies": {
+    "cominterop": "^0.1.0",
+    "winreg": "^1.2.2"
+  }
+}
